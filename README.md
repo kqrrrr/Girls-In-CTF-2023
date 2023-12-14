@@ -1,1 +1,1 @@
-# Girls-In-CTF-2023
+# Girls-In-CTF-2023 Writeup

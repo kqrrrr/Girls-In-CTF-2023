@@ -1,4 +1,4 @@
-# WarmUp (Points: 436)
+# WarmUp (Points: 436) (Difficulty: Easy)
 
 ## Problem
 

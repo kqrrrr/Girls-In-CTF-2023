@@ -18,6 +18,7 @@ So I try to use 7-zip to extract the files. But it asked me to enter the passwor
 ```console
 fcrackzip -D -p rockyou.txt -v -u secret.zip
 ```
+![image](https://github.com/kqrrrr/Girls-In-CTF-2023/assets/95967644/6f9e3173-cc64-42bb-8dda-9bbeed583b3d)
 
 Finally, we know the password is "batman". Then open the flag.txt file inside to get the flag.
 

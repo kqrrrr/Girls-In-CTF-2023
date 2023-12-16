@@ -10,7 +10,7 @@ We need to get the flag from the given audio file.
 sox challenge.wav -n spectrogram -o challenge.png
 ```
 Open challenge.png, you will see the flag:
-* [challenge.png]()
+![image](https://github.com/kqrrrr/Girls-In-CTF-2023/assets/95967644/636bba70-cf7c-4827-ad43-633eb0922e96)
 
 ## Flag
 > GCTF2023{this_fl4g_sounds_weirddddddd}

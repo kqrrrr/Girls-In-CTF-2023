@@ -1,4 +1,4 @@
-# Broken (Points: 100)
+# Broken (Points: 100) (Difficulty: Easy)
 
 ## Problem
 > I got this pdf and it's very important to me. WHY CAN'T IT OPEN OMG!

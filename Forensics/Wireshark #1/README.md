@@ -1,4 +1,4 @@
-# Wireshark #1 (Points: 100)
+# Wireshark #1 (Points: 100) (Difficulty: Easy)
 
 ## Problem
 > it's cleartext :3

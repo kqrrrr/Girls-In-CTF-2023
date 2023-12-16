@@ -1,4 +1,4 @@
-# Frequency (Points: 100)
+# Frequency (Points: 100) (Diffulty: Easy)
 
 ## Problem
 > I can hear flag...I think....or I am insane?
@@ -11,7 +11,7 @@ file challenge.wav
 ```
 > challenge.wav: RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
 
-We need to get the flag from the given audio file.
+We need to get the flag from the given audio file. Use the sox, audio processing tool to generate a spectrogram from challenge.wav and save it as an image.
 ```console
 sox challenge.wav -n spectrogram -o challenge.png
 ```

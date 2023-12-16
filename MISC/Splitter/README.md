@@ -1,4 +1,4 @@
-# Splitter (Points: 100) (Diffulty: Medium)
+# Splitter (Points: 100) (Difficulty: Medium)
 ## Problem
 > Jigsaw puzzle! But with clean edges.
 Password of the zip file: GCTF2023

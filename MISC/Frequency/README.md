@@ -5,6 +5,12 @@
 * [changelle.wav](https://scoreboard.girls4ctf.online/files/7db412504a9c2c7e3c5ad5583f7ce682/challenge.wav?token=eyJ1c2VyX2lkIjoxNiwidGVhbV9pZCI6MjQsImZpbGVfaWQiOjQ2fQ.ZX1HZQ.SCO2piLSp-D-7YwlbVii1wRACUk)
 
 ## Solution
+First, check the file type
+```console
+file challenge.wav
+```
+> challenge.wav: RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+
 We need to get the flag from the given audio file.
 ```console
 sox challenge.wav -n spectrogram -o challenge.png

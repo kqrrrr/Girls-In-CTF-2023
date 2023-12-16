@@ -12,7 +12,7 @@ tshark -r challenge.pcapng -T fields -e usb.capdata > usbdata.txt
 Open usbdata.txt, you can see the size of data is 8 bytes
 ![image](https://github.com/kqrrrr/Girls-In-CTF-2023/assets/95967644/b4d4ad08-a328-4cc8-8004-b4299932a4cb)
 
-The third byte of each USB packet represents the key code. So I use usb.py script to extract keystrokes from USB packets captured in pcapng file.
+The third byte of each USB packet represents the key code. So I use [usb.py](https://github.com/kqrrrr/Girls-In-CTF-2023/blob/main/Forensics/KB/usb.py) script to extract keystrokes from USB packets captured in pcapng file.
 ```console
 python usb.py challenge.pcapng
 ```

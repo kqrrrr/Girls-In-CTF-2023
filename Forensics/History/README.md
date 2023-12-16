@@ -1,4 +1,4 @@
-# History (Points: 489)
+# History (Points: 489) (Difficulty: Medium)
 
 ## Problem
 > I just got back my files from a corrupted hard drive and I need to find back my browser history, can you please help me to get it?

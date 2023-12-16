@@ -1,4 +1,4 @@
-# Frequency (Points: 100) (Diffulty: Easy)
+# Frequency (Points: 100) (Difficulty: Easy)
 
 ## Problem
 > I can hear flag...I think....or I am insane?
